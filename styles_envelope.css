@@ -1,0 +1,34 @@
+/* Student Envelope */
+body {
+	font-family: Arial;
+	print-color-adjust:exact;
+}
+
+/* Table Settings */
+html {
+  margin:0 auto;
+  width: 800px;
+}
+table {
+  margin:0 auto;
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  text-align: left;
+}
+div {
+  width: 800px;
+  height: 100px;
+  transform: rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  margin-top: 360px;
+  margin-left: 100px;
+}
+p.return_address {
+  text-indent: 50px;
+}
+p.main_address {
+  margin-left: 350px;
+}
